@@ -1,6 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=160&section=header&text=%C3%81lvaro%20Pe%C3%B1a%20Santaella&fontSize=34&fontColor=ffffff&desc=Desarrollador%20Web%20%7C%20Backend%2C%20Bases%20de%20Datos%20y%20Sistemas&descAlign=50&descAlignY=68)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=160&section=header&text=%C3%81lvaro%20Pe%C3%B1a%20Santaella&fontSize=34&fontColor=ffffff&desc=Desarrollador%20Web%20%7C%20Backend%2C%20Frontend%20y%20Bases%20de%20Datos&descAlign=50&descAlignY=68)
 
-Desarrollador web con formación en Desarrollo de Aplicaciones Web y enfoque en backend, bases de datos y despliegue de aplicaciones. Me gusta construir soluciones limpias, estructuradas y mantenibles, cuidando la lógica de servidor, el modelado de datos y el entorno de ejecución.
+Desarrollador web con formación en Desarrollo de Aplicaciones Web y enfoque en backend, frontend y bases de datos. Me gusta construir soluciones limpias, estructuradas y mantenibles, cuidando la lógica de servidor, la interfaz y el modelado de datos.
 
 ## 🛠️ Tecnologías
 
