@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Alvaroop390)
 
 <!--
 **Alvaroop390/Alvaroop390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
