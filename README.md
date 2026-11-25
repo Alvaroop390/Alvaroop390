@@ -33,9 +33,6 @@ Desarrollador web con formación en Desarrollo de Aplicaciones Web y enfoque en 
 * **[Nombre del Proyecto 2]** — Breve frase clara de qué hace y qué tecnología destaca. ([Repositorio](https://github.com/Alvaroop390/proyecto-2))
 * **[Nombre del Proyecto 3]** — Breve frase clara de qué hace o qué has practicado en él. ([Repositorio](https://github.com/Alvaroop390/proyecto-3))
 
-## 📊 Estadísticas en GitHub
-
-![Estadísticas de Álvaro Peña Santaella](https://github-readme-stats.vercel.app/api?username=Alvaroop390&show_icons=true&theme=tokyonight)
 
 ## 📫 Contacto
 
