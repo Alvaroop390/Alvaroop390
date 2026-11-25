@@ -29,9 +29,7 @@ Desarrollador web con formación en Desarrollo de Aplicaciones Web y enfoque en 
 
 ## 📂 Proyectos
 
-* **[Nombre del Proyecto 1]** — Breve frase clara de qué hace el proyecto y qué aporta. ([Repositorio](https://github.com/Alvaroop390/proyecto-1))
-* **[Nombre del Proyecto 2]** — Breve frase clara de qué hace y qué tecnología destaca. ([Repositorio](https://github.com/Alvaroop390/proyecto-2))
-* **[Nombre del Proyecto 3]** — Breve frase clara de qué hace o qué has practicado en él. ([Repositorio](https://github.com/Alvaroop390/proyecto-3))
+*En proceso...
 
 
 ## 📫 Contacto
