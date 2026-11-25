@@ -1,6 +1,6 @@
 # Hola, soy Álvaro Peña Santaella 👋
 
-Desarrollador web con formación en Desarrollo de Aplicaciones Web y enfoque en backend, bases de datos y despliegue de aplicaciones. Me gusta construir soluciones limpias, estructuradas y mantenibles, cuidando la lógica de servidor, el modelado de datos y el entorno de ejecución.
+Desarrollador web con formación: Desarrollo de Aplicaciones Web y enfoque en backend, bases de datos y despliegue de aplicaciones. Me gusta construir soluciones limpias, estructuradas y mantenibles y cuidando la lógica de servidor
 
 ## 🛠️ Tecnologías
 
